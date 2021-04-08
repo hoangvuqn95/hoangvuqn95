@@ -1,4 +1,4 @@
-![Easy Frontend banner](gs://photo-app-fb014.appspot.com)
+![Easy Frontend banner](gs://photo-app-fb014.appspot.com/Screenshot from 2021-02-06 21-44-05.png)
 
 # Vu Nguyen - Frontend Developer
 
