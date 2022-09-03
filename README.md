@@ -8,5 +8,7 @@
 
 ## Projects
 
-- The Rosa: https://github.com/hoangvuqn95/The-fake-rosa
 - The shopping cart: https://github.com/hoangvuqn95/project-reactjs
+- The Rosa: https://github.com/hoangvuqn95/The-fake-rosa
+- The Space: https://github.com/hoangvuqn95/space-project
+- Furniture shop: https://github.com/hoangvuqn95/Funiture-shop
