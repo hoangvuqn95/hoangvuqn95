@@ -1,4 +1,4 @@
-![Developer Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fdevelopment-banner&psig=AOvVaw1yDQ5b7Br3FW98opRO3B9t&ust=1739885232707000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCXw9znyosDFQAAAAAdAAAAABAE)
+![Developer Banner](https://github.com/hoangvuqn95/hoangvuqn95/blob/main/banner.png)
 
 # Vu Nguyen - Frontend Developer
 
